@@ -1,0 +1,143 @@
+  *{
+     margin: 0px;
+     padding: 0px;
+     font-family: 'Copse', serif;
+   	 font-family: 'Lato', sans-serif;
+      }
+   .top-navbar{
+   	background: #1b1f20;
+   }
+   .contact-info{
+   	display: flex;
+   	padding-top: 10px;
+   	padding-bottom: 10px;
+   	color: #fff;
+   }
+   .contact-info p{
+   margin-right: 25px;
+   margin-top: 10px;
+   }
+  .img-responsive{
+  	width: 100%;
+  }
+  .jumbotron{
+  	background: #fff;
+  	margin-top: -60px;
+  }
+  .navbar-default{
+  	background: #fff;
+  	border-color: #fff;
+  }
+  .banner-text{
+  	position: absolute;
+  	z-index: 1000;
+  	margin-top: -120px;
+  	margin-left: 50px;
+  	color: #fff;
+  	font-weight: bold;
+  }
+  .about-info h2{
+  	font-weight: bold;
+  	margin-bottom: 20px;
+  	letter-spacing:0.5px;
+  }
+  .about-info p{
+  	font-size: 15px;
+  	letter-spacing:0.5px;
+  	line-height: 28px;
+  }
+  .about-img{
+  	width:100%;
+  }
+  .choose-us{
+  	margin-bottom: 30px;
+  	margin-top: 70px;
+  }
+  .choose-img{
+  	width:100%;
+  	height: 370px;
+  }
+  .choose-us h2{
+  	color: #b86339;
+  	font-weight:600;
+  	letter-spacing:0.5px;
+  	line-height: 90px;
+  }
+   .choose-us p{
+  	color: #ffffffbf;
+  	font-size: 15px;
+  	letter-spacing:0.5px;
+  	line-height: 28px;
+  	
+  }
+  .choose-text{
+  	padding: 13px;
+  	text-align: left;
+  }
+  .choose-color{
+  	background: #600d14;
+  }
+  .navbar-brand>img {
+    display: block;
+    width: 50%;
+    margin-top: -10px;
+}
+.our-products h2{
+	font-weight: bold;
+  	margin-bottom: 20px;
+  	letter-spacing:0.5px;
+}
+.our-products p{
+  	letter-spacing:0.5px;
+  	font-size: 15px;
+}
+.img-top>img{
+	width: 100%;
+	margin-bottom: -10px;
+}
+.card-text{
+	text-align: center;
+}
+.products{
+	margin-top: 60px;
+}
+.card-text{
+	background: #8f2f37;
+	color: #fff;
+	padding: 5px;
+}
+.card-text h3{
+	font-size: 15px;
+}
+.our-products{
+	background: #fcf7f8;
+	padding-top: 30px;
+	margin-top: 70px;
+	padding-bottom: 50px;
+	margin-bottom: 40px;
+}
+.call-img {
+	width: 100%;
+}
+footer{
+	background: #383838;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 60px;
+	color: #fff;
+}
+footer h4{
+	margin-bottom: 20px;
+}
+footer a{
+	color: #fff;
+}
+footer a:hover{
+	color: #fff;
+}
+.footer-bottom{
+	background: #2d2c2c;
+	color:#fff;
+	padding: 10px;
+	text-align: center;
+}
